@@ -17,3 +17,7 @@ Me chamo Tiago Henrique Padilha, tenho 19 anos e estou cursando Engenharia de So
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+
+---
+
+<img align="center" alt="Coding" width="100%" src="imgs/porsche-992.gif">
