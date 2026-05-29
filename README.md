@@ -18,6 +18,4 @@ Me chamo Tiago Henrique Padilha, tenho 19 anos e estou cursando Engenharia de So
   </a>
 </p>
 
----
-
 <img align="center" alt="Coding" width="100%" src="imgs/porsche-992.gif">
